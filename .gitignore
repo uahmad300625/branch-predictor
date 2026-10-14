@@ -1,0 +1,3 @@
+src/predict
+src/predict_extra_credit
+src/*.o
